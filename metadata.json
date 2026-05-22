@@ -1,0 +1,8 @@
+{
+  "name": "Remix: VibeViz v3 - by me",
+  "description": "Real-time facial analysis and emotion tracking using MediaPipe and Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
